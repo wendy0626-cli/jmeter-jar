@@ -1,0 +1,72 @@
+{
+    // 使用 IntelliSense 了解相关属性。 
+    // 悬停以查看现有属性的描述。
+    // 欲了解更多信息，请访问: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        
+        {
+            "type": "java",
+            "name": "Launch sample",
+            "request": "launch",
+            "mainClass": "sample",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test0729",
+            "request": "launch",
+            "mainClass": "Test0729",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test01",
+            "request": "launch",
+            "mainClass": "firstwork.testyyy.Test01",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Md5Util",
+            "request": "launch",
+            "mainClass": "Md5Util",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch demo",
+            "request": "launch",
+            "mainClass": "demo",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test0727",
+            "request": "launch",
+            "mainClass": "Test0727",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch Test0728",
+            "request": "launch",
+            "mainClass": "Test0728",
+            "projectName": "jmeter-test_b9c369fd"
+        },
+        {
+            "type": "java",
+            "name": "Launch App",
+            "request": "launch",
+            "mainClass": "App",
+            "projectName": "jmeter-test_b9c369fd",
+            "console": "externalTerminal"
+        },
+        {
+            "type": "java",
+            "name": "Launch Current File",
+            "request": "launch",
+            "mainClass": "${file}"
+        }
+    ]
+}
